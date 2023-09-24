@@ -1,7 +1,7 @@
 # Munmi Thakuria
 
 ## Interests:
-   - I have interest in the field Data Science.
+   - I have interest in the field Data Science and also, DevOps.
    - Reading Fiction. I am an avid reader.
    - Like to play Table Tennis, Badminton and also, love to swim.
 
