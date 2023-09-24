@@ -8,8 +8,8 @@
 ## Technical Background
     * Programming skills: Python, Bash
     * 5+ years of experience as a Software Engineer in DevOps
-    * Worked in Gitlab, CICD frameworks, Docker, AWS, Oracle DB
+    * Worked on Gitlab, CICD frameworks, Docker, AWS, Oracle DB
     * Involved in complete software development cycle in Agile Methodologies
 
 ## Favorite Meme: 
-    Click [here](https://www.instagram.com/p/Bf4_Kk1H3ma/)
+    Click [here] (https://www.instagram.com/p/Bf4_Kk1H3ma/)
