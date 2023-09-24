@@ -12,4 +12,4 @@
     * Involved in complete software development cycle in Agile Methodologies
 
 ## Favorite Meme: 
-    [Click here!](https://www.instagram.com/p/Bf4_Kk1H3ma/)
+    Click [here](https://www.instagram.com/p/Bf4_Kk1H3ma/)
